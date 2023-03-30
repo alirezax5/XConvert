@@ -1,0 +1,15 @@
+{
+    "name": "alireza/x-convert",
+    "autoload": {
+        "psr-4": {
+            "alirezax5\\XConvert\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alirezax5",
+            "email": "alirezaaghax6@gmail.com"
+        }
+    ],
+    "require": {}
+}
