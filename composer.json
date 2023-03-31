@@ -1,5 +1,5 @@
 {
-    "name": "alireza/x-convert",
+    "name": "alirezax5/x-convert",
     "autoload": {
         "psr-4": {
             "alirezax5\\XConvert\\": "src/"
