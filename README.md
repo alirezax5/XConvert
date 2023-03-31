@@ -2,6 +2,11 @@
 
 file size & time unit convert
 
+install :
+
+```
+composer require alirezax5/x-convert
+```
 
 ex : 
 
